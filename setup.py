@@ -10,6 +10,8 @@ CHANGES = open(os.path.join(here, 'CHANGES.txt')).read()
 
 requires = [
     'dictshield',
+    'extensions',
+    'netaddr',
     'pyramid',
     'waitress',
     ]
