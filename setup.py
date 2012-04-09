@@ -9,7 +9,7 @@ CHANGES = open(os.path.join(here, 'CHANGES.txt')).read()
 
 
 requires = [
-    'dictsheild',
+    'dictshield',
     'pyramid',
     'waitress',
     ]
